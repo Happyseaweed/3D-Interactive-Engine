@@ -5,7 +5,10 @@
     To run the program:
         0. Save the project in its own folder.
         1. Install needed libraries.
-        2. In terminal, navigate to the folder and type ```python python3 main.py```
+        2. In terminal, navigate to the folder and type 
+        ``` 
+        python3 main.py
+        ```
         3. Have fun. Feed back is appreciated!
 
 ### Structure:
