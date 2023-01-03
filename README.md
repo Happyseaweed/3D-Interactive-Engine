@@ -4,8 +4,11 @@ Hello there, thanks for checking out my little project :D
 I thought it'd be fun and cool to be able to interact with 3D models with your hands without having to buy a VR headset, so I decided to make an
 interactive 3D engine with python. This program also uses my MediaPipe hand module that I created a while ago, certainly is nice to use past projects!
 
-Enjoy. 
+Here are some demo images, details about program are below.
+---
+![alt text for screen readers](/media/demo1.png "Engine Interface")
 
+---
 ### How to use:
     At the moment the engine is only in demo mode, a mode where you can view any 3D file of your choosing is underdevelopment.
     To run the program:
