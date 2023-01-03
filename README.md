@@ -7,6 +7,7 @@ interactive 3D engine with python. This program also uses my MediaPipe hand modu
 Enjoy. 
 
 ### How to use:
+---
     At the moment the engine is only in demo mode, a mode where you can view any 3D file of your choosing is underdevelopment.
     To run the program:
         0. Save the project in its own folder.
