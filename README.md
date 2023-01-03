@@ -30,7 +30,7 @@
     Math            - Standard Python math library for trignometry functions.
 
 
-######NOTE TO SELF
+###### NOTE TO SELF
 ----
 
 TO START DO STUFF, START THE VIRTUAL ENVIRONMENT FIRST WTH:
