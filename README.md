@@ -1,5 +1,13 @@
 # 3D Model Viewer & Interaction Software
 
+### How to use:
+    At the moment the engine is only in demo mode, a mode where you can view any 3D file of your choosing is underdevelopment.
+    To run the program:
+        0. Save the project in its own folder.
+        1. Install needed libraries.
+        2. In terminal, navigate to the folder and type ```python python3 main.py```
+        3. Have fun. Feed back is appreciated!
+
 ### Structure:
     main.py         - Contains the engine class for the 3D interactive engine.
     camera.py       - Contains the camera class for the engine.
