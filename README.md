@@ -33,12 +33,12 @@
 ###### NOTE TO SELF
 ----
 
-TO START DO STUFF, START THE VIRTUAL ENVIRONMENT FIRST WTH:
-source testenv/bin/activate
-AND THEN RUN YOUR CODE LIKE YOU NORMALLY WOULD!!!!
+###### TO START DO STUFF, START THE VIRTUAL ENVIRONMENT FIRST WTH:
+###### source testenv/bin/activate
+###### AND THEN RUN YOUR CODE LIKE YOU NORMALLY WOULD!!!!
 
-NOTE: YOU ARE USING MEDIAPIPE-SILICON, WHICH IS NOT AN OFFICIAL THING! OR SO I BELIEVE.
-PYGAME, NUMPY, OPENCV-PYTHON ARE ALL NICE AND REGULAR!!
+###### NOTE: YOU ARE USING MEDIAPIPE-SILICON, WHICH IS NOT AN OFFICIAL THING! OR SO I BELIEVE.
+###### PYGAME, NUMPY, OPENCV-PYTHON ARE ALL NICE AND REGULAR!!
  
-This program will allow you to interact with 3D object files with your hands on any computer.
+###### This program will allow you to interact with 3D object files with your hands on any computer.
 ----
