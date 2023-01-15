@@ -1,8 +1,9 @@
 # 3D Model Viewer & Interaction Software
 ---
 Hello there, thanks for checking out my little project :D
-I thought it'd be fun and cool to be able to interact with 3D models with your hands without having to buy a VR headset, so I decided to make an
-interactive 3D engine with python. This program also uses my MediaPipe hand module that I created a while ago, certainly is nice to use past projects!
+I thought it'd be fun and cool to be able to interact with 3D models with your hands without having to buy a VR headset, 
+so I decided to make an interactive 3D engine with python. This program also uses my MediaPipe hand module that I created 
+a while ago, certainly is nice to use past projects!
 
 Here are some demo images, details about program are below.
 ---
@@ -10,7 +11,8 @@ Here are some demo images, details about program are below.
 
 ---
 ### How to use:
-    At the moment the engine is only in demo mode, a mode where you can view any 3D file of your choosing is underdevelopment.
+    At the moment the engine is only in demo mode, a mode where you can view any 3D file of your choosing is 
+    underdevelopment.
     To run the program:
         0. Save the project in its own folder.
         1. Install needed libraries.
@@ -28,7 +30,8 @@ Here are some demo images, details about program are below.
 
 ### How it works:
     It is a 3D engine that utilizes perspective projection(view frustum) to render 3 dimensional objects on a 2D screen.
-    The engine allows interaction between user and the environment through **keyboard and mouse** or **their hands and their webcam**. 
+    The engine allows interaction between user and the environment through **keyboard and mouse** or **their hands 
+    and their webcam**. 
     The hand gestures allow for a more intuitive interaction with the objects in the space. 
 
     Note: There may still be small bugs or weird behaviours, I am still looking for ways to 
@@ -40,7 +43,8 @@ Here are some demo images, details about program are below.
                       with my MBP. The silicon build is different from the official build.
     
     OpenCV          - A computer vision library required for hand detection using
-                      cameras to work. This is mainly used to take input from webcam and feed input image into hand detection algorithm.
+                      cameras to work. This is mainly used to take input from webcam and feed input image into hand 
+                      detection algorithm.
 
     Pygame          - A python game library that is mainly used for displaying the 
                       2D projection of the environment. Mostly user interface stuff is used.
