@@ -31,7 +31,9 @@ Here are some demo images, details about program are below.
     The engine allows interaction between user and the environment through **keyboard and mouse** or **their hands and their webcam**. 
     The hand gestures allow for a more intuitive interaction with the objects in the space. 
 
-    Note: There may still be small bugs or weird behaviours, I am still looking for ways to improve the efficiency of OpenCV & MediaPipe and the accuracy of my gesture detections. I might build my own version of MediaPipe if necessary.
+    Note: There may still be small bugs or weird behaviours, I am still looking for ways to 
+          improve the efficiency of OpenCV & MediaPipe and the accuracy of my gesture detections. 
+          I might build my own version of MediaPipe if necessary.
 
 #### Libraries Used
     MediaPipe       - For the hand detection. I am using MediaPipe-silicon to work 
